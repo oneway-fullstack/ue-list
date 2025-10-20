@@ -17,7 +17,7 @@
 | 16 | 镜片 | 焦距：约35mm / 40mm / 45mm / 50mm | 1 | 90 | 90 |  | [Link](https://detail.1688.com/offer/713743706481.html?spm=a26352.13672862.offerlist.64.5f9d1e62cpY12m) |
 | 17 | NRF24L01模块 |  | 2.65 | 30 | 79.5 |  | [Link](https://detail.1688.com/offer/44471604835.html?spm=a26352.13672862.offerlist.1.6b7b2a936AG7Iv) |
 | 18 | 轻触开关6*6四脚贴片 | 6mm 黑色 | 0.56 | 100 | 56 |  | [Link](https://detail.1688.com/offer/848235916708.html?spm=a26352.13672862.offerlist.1.95481e62Z8TcyW) |
-| 19 | HT7533 稳压器 | SOT89-3 | 0.06 | 100 | 6 |  | [Link](http://detail.m.1688.com/page/index.html?offerId=616868849847) |
+| 19 | HT7533 稳压器 | TO-92 | 1 | 100 | 100 |  | [Link]([http://detail.m.1688.com/page/index.html?offerId=616868849847](https://detail.1688.com/offer/623594516015.html?spm=a26352.13672862.offerlist.13.e8981e62JtjSnK&offerId=623594516015&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=42c6417e0b37477b8695517f9ebda371&skuId=4860359709581&forcePC=1760967386600)) |
 | 20 | 电容 | 450v4.7uf | 0.18 | 200 | 36 |  | [Link](https://m.1688.com/offer/918113907682.html) |
 | 21 | 5mm RGB LED |  | 0.09 | 100 | 9 |  | [Link](http://detail.m.1688.com/page/index.html?offerId=691272451848) |
 | 22 | 6x6 tact switch | 6X6插件 | 0.02 | 100 | 2 |  | [Link](https://detail.1688.com/offer/754521721436.html) |
