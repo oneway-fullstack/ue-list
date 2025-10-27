@@ -13,7 +13,7 @@
 | 12 | HDMI线 | 2m | 3.9 | 30 | 117 |  | [Link](https://detail.1688.com/offer/671648034652.html?spm=a26352.13672862.offerlist.4.47a219b2mplMdz&offerId=671648034652&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5909727159305&trace_log=normal&uuid=35485dcf0a8a4b28b0e40ae02013a345&forcePC=1758036388353) |
 | 13 | Type-C线 | 2m | 1.09 | 30 | 32.7 |  | [Link](https://detail.1688.com/offer/959302761956.html?spm=a26352.13672862.offerlist.14.172756511urUBt&offerId=959302761956&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5888907513289&trace_log=normal&uuid=69a31faf22ec4c6cbcb6f3679def240e&forcePC=1758035818070) |
 | 14 | Type-C传输线 | 2m | 5 | 30 | 150 |  | [Link](https://detail.1688.com/offer/750440335303.html?spm=a26352.13672862.offerlist.4.76f819ac7VDJDB&offerId=750440335303&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5880186455552&trace_log=normal&uuid=1bbd19142eec45e79a4a10a2bdd6d998&forcePC=1758704245626) |
-| 15 | PLA 海正生物 | PLA 25/KG袋 | 18 | 2 | 36 |  | [Link](https://detail.1688.com/offer/874828377227.html?spm=a26352.13672862.offerlist.1.2ada2f97Ou37jb) |
+| 15 | PLA 海正生物 | PLA 25/KG袋 | 18 | 2袋（50公斤） | 900 |  | [Link](https://detail.1688.com/offer/874828377227.html?spm=a26352.13672862.offerlist.1.2ada2f97Ou37jb) |
 | 16 | 镜片 | 焦距：约35mm * 60个 / 40mm * 10个 / 45mm * 10个 / 50mm * 10个 | - | - | 90 |  | [Link](https://detail.1688.com/offer/713743706481.html?spm=a26352.13672862.offerlist.64.5f9d1e62cpY12m) |
 | 17 | NRF24L01模块 |  | 2.65 | 30 | 79.5 |  | [Link](https://detail.1688.com/offer/44471604835.html?spm=a26352.13672862.offerlist.1.6b7b2a936AG7Iv) |
 | 18 | 轻触开关6*6四脚贴片 | 6mm 黑色 | 0.56 | 100 | 56 |  | [Link](https://detail.1688.com/offer/848235916708.html?spm=a26352.13672862.offerlist.1.95481e62Z8TcyW) |
