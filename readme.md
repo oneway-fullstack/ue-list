@@ -1,5 +1,5 @@
 VR package link
-https://mega.nz/folder/XxUUlb6Z#pYsHnkicHx3edYBo6oAfUg(https://mega.nz/folder/XxUUlb6Z#pYsHnkicHx3edYBo6oAfUg)
+https://mega.nz/folder/XxUUlb6Z#pYsHnkicHx3edYBo6oAfUg
 
 
 
