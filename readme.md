@@ -29,4 +29,4 @@ https://mega.nz/folder/XxUUlb6Z#pYsHnkicHx3edYBo6oAfUg
 | 23 | 120Ω 电阻 | 1/4W 1%金属膜（100只） | 1.49 | 4 | 5.96 |  | [Link](https://detail.1688.com/offer/624504299937.html) |
 | 24 | 180Ω 电阻 | 1/4W（100只） | 0.55 | 4 | 2.2 |  | [Link](https://detail.1688.com/offer/706875831515.html) |
 
-## 总价格： **14,706.7 元**
+## 总价格： **15,164.7 元**
