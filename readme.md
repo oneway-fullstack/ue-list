@@ -25,8 +25,10 @@ https://mega.nz/folder/XxUUlb6Z#pYsHnkicHx3edYBo6oAfUg
 | 19 | HT7533 稳压器 | TO-92 | 1 | 100 | 100 | 2025-10-27 更新 | [Link](https://detail.1688.com/offer/623594516015.html?spm=a26352.13672862.offerlist.13.e8981e62JtjSnK&offerId=623594516015&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=42c6417e0b37477b8695517f9ebda371&skuId=4860359709581&forcePC=1760967386600) |
 | 20 | 电容 | 450v4.7uf | 0.18 | 200 | 36 |  | [Link](https://m.1688.com/offer/918113907682.html) |
 | 21 | 5mm RGB LED |  | 0.09 | 100 | 9 |  | [Link](http://detail.m.1688.com/page/index.html?offerId=691272451848) |
+
 | 22 | 6x6 tact switch | 6X6插件 | 0.02 | 100 | 2 |  | [Link](https://detail.1688.com/offer/754521721436.html) |
 | 23 | 120Ω 电阻 | 1/4W 1%金属膜（100只） | 1.49 | 4 | 5.96 |  | [Link](https://detail.1688.com/offer/624504299937.html) |
 | 24 | 180Ω 电阻 | 1/4W（100只） | 0.55 | 4 | 2.2 |  | [Link](https://detail.1688.com/offer/706875831515.html) |
+| 25 | Micro USB线 | 2米环保安卓充电线 | 1.5 | 30 | 45 |  | [Link]([https://detail.1688.com/offer/706875831515.html](https://detail.1688.com/offer/655918511617.html?spm=a26352.13672862.offerlist.42.1dce1e62SJNCGt&offerId=655918511617&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=bb177d6197a94ce491e6a79b373956bd&skuId=4904984263986&forcePC=1764034943176)) |
 
 ## 总价格： **15,164.7 元**
