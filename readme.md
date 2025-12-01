@@ -2,7 +2,7 @@
 https://mega.nz/folder/XxUUlb6Z#pYsHnkicHx3edYBo6oAfUg
 
 
-## Purchase ##
+## Purchase ## （2025-12-01- 更新）
 | 编码 | 产品名称 | 款式或参数 | 单价(元) | 数量 | 总价(元) | 备注 | 网址 |
 |------|------------|-------------|-----------|--------|-----------|-------|-------|
 | 1 | VR眼镜头戴一体机 | SCG06-黑色 | 21 | 2 | 42 | 千幻爱奇艺vr眼镜 | [Link](https://detail.1688.com/offer/565129768848.html?spm=a26352.13672862.offerlist.21.1633505efEKHp7&offerId=565129768848&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=8287c4d9a57d4f8d8b98d7a73e3d0d7c&skuId=3579170297442&forcePC=1758121755837) |
