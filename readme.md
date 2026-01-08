@@ -1,33 +1,25 @@
-## 2025-11-10 Download
-https://mega.nz/folder/XxUUlb6Z#pYsHnkicHx3edYBo6oAfUg
+## Purchase ## （2026-01-09- 更新）
+非常感谢您在时间紧、任务重的情况下，仍协助我们完成本次代购与协调工作，对项目推进帮助很大。
+目前我们已收到大部分物料，但仍有部分清单中的产品尚未完成采购/到货。由于项目正在按计划推进，这几项物料对后续工作安排影响较大，时间上比较紧张。
 
+烦请您帮忙优先协助以下物料的代购事宜，并告知预计的采购及发货时间。如有任何问题或需要我们配合的地方，也请随时告知。
 
-## Purchase ## （2025-12-01- 更新）
-| 编码 | 产品名称 | 款式或参数 | 单价(元) | 数量 | 总价(元) | 备注 | 网址 |
-|------|------------|-------------|-----------|--------|-----------|-------|-------|
-| 1 | VR眼镜头戴一体机 | SCG06-黑色 | 21 | 2 | 42 | 千幻爱奇艺vr眼镜 | [Link](https://detail.1688.com/offer/565129768848.html?spm=a26352.13672862.offerlist.21.1633505efEKHp7&offerId=565129768848&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=8287c4d9a57d4f8d8b98d7a73e3d0d7c&skuId=3579170297442&forcePC=1758121755837) |
-| 2 | 王者鲤鱼同款-无声道 |  | 19.97 | 2 | 39.94 |  | [Link](https://detail.1688.com/offer/945092303702.html?spm=a26352.13672862.offerlist.26.1633505efEKHp7&offerId=945092303702&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5888214216871&trace_log=normal&uuid=8287c4d9a57d4f8d8b98d7a73e3d0d7c&forcePC=1758121908270) |
-| 3 | 千幻魔镜 | G06B | 20 | 2 | 40 |  | [Link](https://detail.1688.com/offer/785886521499.html?spm=a26352.13672862.offerlist.99.1633505efEKHp7&offerId=785886521499&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5969727190792&trace_log=normal&uuid=8287c4d9a57d4f8d8b98d7a73e3d0d7c&forcePC=1758122064391) |
-| 4 | VRGQ8标准款 |  | 13.2 | 2 | 26.4 | 2026年新款VRG Q8 vr眼镜一体机虚拟现实3d全景打游戏手机专用AR | [Link](https://detail.1688.com/offer/954181581573.html?spm=a26352.13672862.offerlist.123.1633505efEKHp7&offerId=954181581573&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5875993477981&trace_log=normal&uuid=8287c4d9a57d4f8d8b98d7a73e3d0d7c&forcePC=1758122197448) |
-| 5 | 3D 打印机 | 纵维立方K3MC超大尺寸多色3d立体打印机全自动调平高速FDM桌面级 | 2499 | 1 | 2499 | https://detail.1688.com/offer/991882189344.html?spm=a262eq.8274978.im_chat_detail.pc | [Link]([https://detail.1688.com/offer/897990354771.html?spm=a26352.13672862.offerlist.23.55da5f9dXOb91r&offerId=897990354771&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=7adf8bfffc2f48be812f7436a6fd55f1&skuId=5753378777628&forcePC=1758122620137](https://detail.1688.com/offer/991882189344.html?spm=a262eq.8274978.im_chat_detail.pc)|
-| 6 | 液晶显示器 | 屏带背光配HDMI驱动 | 230 | 30 | 6900 | 夏普5.5寸2k屏LS055R1SX04 LCD3D打印机屏1440x2560带HDMI驱动板 | [Link](https://detail.1688.com/offer/846190321374.html?spm=a26352.13672862.offerlist.62.68707444ReePKd&offerId=846190321374&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=63abb40abb75441b8e3569d9e6132251&skuId=5794517942523&forcePC=1758035983985) |
-| 7 | VR一体机看3d眼镜4k | SC-AI05 | 999 | 1 | 999 |  | [Link](https://detail.1688.com/offer/599771814018.html?spm=a26352.13672862.offerlist.62.5b867180DgGMMW&offerId=599771814018&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=30f937671ee24dcc8b91fbf200e3d6fe&skuId=4187878693498&forcePC=1758290473194) |
-| 8 | NOLO X1 VR |  | 1649 | 1 | 1649 |  | [Link](https://detail.1688.com/offer/623420432730.html?spm=a26352.13672862.offerlist.88.5d465764rkCZ9k&offerId=623420432730&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=1b5993d817cd49cba0fe4cff3ae7b5d1&skuId=-1&forcePC=1758291769034) |
-| 10 | Arduino Mini | 3.3V/16M | 36 | 30 | 1080 |  | [Link](https://detail.1688.com/offer/584864809250.html?spm=a26352.13672862.offerlist.40.2e15755eQyjbBK&offerId=584864809250&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=7e176a390b4f48dda280e91461b1908a&skuId=4929894890302&forcePC=1758120820498) |
-| 11 | MPU9250 | GY-9250（国产芯片） | 10.3 | 30 | 309 |  | [Link](https://detail.1688.com/offer/820900585332.html?spm=a26352.13672862.offerlist.21.264756b3usYc3b&offerId=820900585332&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=6091578827165&trace_log=normal&uuid=1db7f3bebf4d4c2db7f408b0947322f1&forcePC=1758121045658) |
-| 12 | HDMI线 | 2m | 3.9 | 30 | 117 |  | [Link](https://detail.1688.com/offer/671648034652.html?spm=a26352.13672862.offerlist.4.47a219b2mplMdz&offerId=671648034652&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5909727159305&trace_log=normal&uuid=35485dcf0a8a4b28b0e40ae02013a345&forcePC=1758036388353) |
-| 13 | Type-C线 | 2m | 1.09 | 30 | 32.7 |  | [Link](https://detail.1688.com/offer/959302761956.html?spm=a26352.13672862.offerlist.14.172756511urUBt&offerId=959302761956&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5888907513289&trace_log=normal&uuid=69a31faf22ec4c6cbcb6f3679def240e&forcePC=1758035818070) |
-| 14 | Type-C传输线 | 2m | 5 | 30 | 150 |  | [Link](https://detail.1688.com/offer/750440335303.html?spm=a26352.13672862.offerlist.4.76f819ac7VDJDB&offerId=750440335303&sortType=&pageId=&abBizDataType=cbuOffer&hotSaleSkuId=5880186455552&trace_log=normal&uuid=1bbd19142eec45e79a4a10a2bdd6d998&forcePC=1758704245626) |
-| 15 | PLA 海正生物 | PLA 25/KG袋 | 18 | 2袋（50公斤） | 900 | 2025-10-27 更新 | [Link](https://detail.1688.com/offer/874828377227.html?spm=a26352.13672862.offerlist.1.2ada2f97Ou37jb) |
-| 16 | 镜片 | 焦距：约35mm * 60个 / 40mm * 10个 / 45mm * 10个 / 50mm * 10个 | - | - | 90 | 2025-10-27 更新 | [Link](https://detail.1688.com/offer/713743706481.html?spm=a26352.13672862.offerlist.64.5f9d1e62cpY12m) |
-| 17 | NRF24L01模块 |  | 2.65 | 30 | 79.5 |  | [Link](https://detail.1688.com/offer/44471604835.html?spm=a26352.13672862.offerlist.1.6b7b2a936AG7Iv) |
-| 18 | 轻触开关6*6四脚贴片 | 6mm 黑色 | 0.56 | 100 | 56 |  | [Link](https://detail.1688.com/offer/848235916708.html?spm=a26352.13672862.offerlist.1.95481e62Z8TcyW) |
-| 19 | HT7533 稳压器 | TO-92 | 1 | 100 | 100 | 2025-10-27 更新 | [Link](https://detail.1688.com/offer/623594516015.html?spm=a26352.13672862.offerlist.13.e8981e62JtjSnK&offerId=623594516015&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=42c6417e0b37477b8695517f9ebda371&skuId=4860359709581&forcePC=1760967386600) |
-| 20 | 电容 | 450v4.7uf | 0.18 | 200 | 36 |  | [Link](https://m.1688.com/offer/918113907682.html) |
-| 21 | 5mm RGB LED |  | 0.09 | 100 | 9 |  | [Link](http://detail.m.1688.com/page/index.html?offerId=691272451848) |
-| 22 | 6x6 tact switch | 6X6插件 | 0.02 | 100 | 2 |  | [Link](https://detail.1688.com/offer/754521721436.html) |
-| 23 | 120Ω 电阻 | 1/4W 1%金属膜（100只） | 1.49 | 4 | 5.96 |  | [Link](https://detail.1688.com/offer/624504299937.html) |
-| 24 | 180Ω 电阻 | 1/4W（100只） | 0.55 | 4 | 2.2 |  | [Link](https://detail.1688.com/offer/706875831515.html) |
-| 25 | Micro USB线 | 2米环保安卓充电线 | 1.5 | 30 | 45 | [https://detail.1688.com/offer/706875831515.html](https://detail.1688.com/offer/655918511617.html?spm=a26352.13672862.offerlist.42.1dce1e62SJNCGt&offerId=655918511617&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=bb177d6197a94ce491e6a79b373956bd&skuId=4904984263986&forcePC=1764034943176)  | [Link]([https://detail.1688.com/offer/706875831515.html](https://detail.1688.com/offer/655918511617.html?spm=a26352.13672862.offerlist.42.1dce1e62SJNCGt&offerId=655918511617&sortType=&pageId=&abBizDataType=cbuOffer&trace_log=normal&uuid=bb177d6197a94ce491e6a79b373956bd&skuId=4904984263986&forcePC=1764034943176) |
+# 采购清单
 
-## 总价格： **15,164.7 元**
+| 编码 | 产品名称 | 款式或参数 | 单价 | 数量 | 总价 | 备注 | 网址 |
+|----|----|----|----|----|----|----|----|
+| 1 | VR眼镜头戴一体机 | G06B | 20 | 2 | 40 | 千幻魔镜 | https://detail.1688.com/offer/785886521499.html |
+| 2 | 3D 打印机 | K3MC | 2499 | 1 | 2499 |  | https://detail.1688.com/offer/991882189344.html |
+| 3 | NOLO X1 VR |  | 1649 | 1 | 1649 |  | https://detail.1688.com/offer/623420432730.html |
+| 4 | PLA 海正生物 | PLA 25/KG袋 | 18 | 50 | 900 |  | https://detail.1688.com/offer/874828377227.html |
+| 5 | 镜片 | 焦距：约 35 mm | 1 | 59 | 59 |  | https://detail.1688.com/offer/713743706481.html |
+| 6 |  | 40mm | 1 | 9 | 9 |  |  |
+| 7 |  | 45mm | 1 | 8 | 8 |  |  |
+| 8 |  | 50mm | 1 | 9 | 9 |  |  |
+| 9 | HT7533 稳压器 | SOT89-3 | 0.06 | 100 | 6 |  | http://detail.m.1688.com/page/index.html?offerId=616868849847 |
+|10 | 电容 450v 4.7uf |  | 0.18 | 200 | 36 |  | https://detail.1688.com/offer/918113907682.html |
+|11 | Micro USB线 | 2米环保安卓充电线 | 1.5 | 30 |  |  | https://detail.1688.com/offer/655918511617.html |
+|12 | 扩展坞 |  | 30 |  |  |  |  |
+|13| VR眼镜  |  | 30 |  |  |  |  | 去年12月初已经购物安排发货（德邦快递 DPK210225127082）辽宁省丹东市元宝区华美大厦
+宋伟
+13841544593 发到这里了 | 
